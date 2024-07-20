@@ -13,7 +13,7 @@
   <project path="vendor/xiaomi/vayu" remote="org" name="vendor_xiaomi_vayu" revision="14" />
   <project path="vendor/xiaomi/sm8150-common" remote="org" name="proprietary_vendor_xiaomi_sm8150-common" revision="14" />
   <project path="vendor/xiaomi/miuicamera" remote="org" name="vendor_xiaomi_miuicamera" revision="14" />
-  <project path="kernel/xiaomi/sm8150" remote="org" name="android_kernel_xiaomi_sm8150" revision="14" />
+  <project path="kernel/xiaomi/sm8150" remote="bag" name="kernel_xiaomi_vayu" revision="14-derp" />
   <project path="hardware/xiaomi" remote="hard" name="android_hardware_xiaomi" revision="lineage-21" />
   <project path="vendor/lineage-priv/keys" remote="momen" name="my_sign_test_keys" revision="QPR3" />
 </manifest>
