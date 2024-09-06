@@ -6,7 +6,7 @@
 <remote name="pro" fetch="https://gitlab.com/dogpoopy/" />
 <remote name="hard" fetch="https://github.com/LineageOS/" />
 <remote name="bag" fetch="https://github.com/bagaskara815/"/>
-  <project path="device/xiaomi/vayu" remote="org2" name="device_xiaomi_vayu_powerhal" revision="alpha14" />
+  <project path="device/xiaomi/vayu" remote="org2" name="device_xiaomi_vayu_powerhal" revision="matrixx14" />
   <project path="vendor/xiaomi/vayu" remote="org2" name="vendor_xiaomi_vayu_perfhal" revision="alpha14" />
  <!-- <project path="vendor/xiaomi/miuicamera" remote="org" name="vendor_xiaomi_miuicamera" revision="14" /> -->
   <project path="kernel/xiaomi/vayu" remote="bag" name="kernel_xiaomi_vayu" revision="14-derp" />
